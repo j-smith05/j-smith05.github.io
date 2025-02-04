@@ -1,4 +1,4 @@
-# j-smith05.github.io
+# Practice Github Page
 This repository is for practicing how to make a Github Page for my CS 155 Class
 
 # About Me!
