@@ -1,5 +1,5 @@
 # Practice Github Page
-Goog Morning / Afternoon / Evening! This repository is for practicing how to make a Github Page for my CS 155 Class
+Good Morning / Afternoon / Evening! This repository is for practicing how to make a Github Page for my CS 155 Class
 
 # About Me!
 
